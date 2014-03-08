@@ -2,7 +2,8 @@
 int doSomething(const double &val)
 {
     double a = val;
-    return a;
+	int pippo = 3;
+	return a;
 }
 
 int testPtrs(const double *dp1, double * const dp2, const double &dp3, const int dp4)
