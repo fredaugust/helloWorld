@@ -3,6 +3,7 @@ int doSomething(const double &val)
 {
     double a = val;
 	int pippo = 3;
+	int pippo2 = 3;
 	return a;
 }
 
