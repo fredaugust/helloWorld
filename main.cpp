@@ -17,7 +17,8 @@ int testPtrs(const double *dp1, double * const dp2, const double &dp3, const int
     int r = dp4;
     //dp4++;
     doSomething(dp3);
-    return 0;
+	int second = 2;
+	return 0;
 }
 
 int testAgain(double const *val)
